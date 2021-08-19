@@ -25,7 +25,7 @@ Onde **node** é o código reservado do terminal para a execução, e **index.js
 
 # Fique a vontade para realizar testes, e me relatar erros encontrados ;).
 
-###Author: Jefferson Lucas Gomes.
+### Author: Jefferson Lucas Gomes.
 
 
 
