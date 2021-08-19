@@ -3,7 +3,7 @@
 
 
 
-# Executando o projeto:
+## Executando o projeto:
 
 1. Atenção, para que o projeto seja utilizado sem problemas, é altamente recomendado que o mesmo esteja apenas dentro de uma pasta raiz, e que a pasta tenha o mesmo nome do atributo "name" no arquivo **package.json** (que está contido no projeto ao ser clonado.)
 
